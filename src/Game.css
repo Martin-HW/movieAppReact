@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,21 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+/* .myMoviePic {
+  height: 450px;
+  width: 450px;
+  border: 10px solid purple;
+  border-radius: 50%;
 }
+.myButtons {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+.main-Image {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+} */

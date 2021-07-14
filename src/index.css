@@ -1,13 +1,16 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.myMoviePic {
+  height: 450px;
+  width: 450px;
+  border: 10px solid purple;
+  border-radius: 50%;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.myButtons {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+.main-Image {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
 }
